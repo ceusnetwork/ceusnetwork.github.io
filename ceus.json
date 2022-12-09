@@ -2,7 +2,7 @@
     "updated_on": "2022-03-02 20:23:35 ",
     "background": [
         {
-            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/swap-background-1.jpg",
+            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/1.png",
             "imageBlur": "0",
             "overlayColor": "#000000",
             "overlayOpacity": "15",
@@ -13,7 +13,7 @@
             "speTextColor": "#7095c3"
         },
         {
-            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/swap-background-2.jpg",
+            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/2.png",
             "imageBlur": "0",
             "overlayColor": "#000000",
             "overlayOpacity": "20",
@@ -24,7 +24,7 @@
             "speTextColor": "#0B6582"
         },
         {
-            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/swap-background-3.jpg",
+            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/3.png",
             "imageBlur": "0",
             "overlayColor": "#000000",
             "overlayOpacity": "45",
@@ -35,7 +35,7 @@
             "speTextColor": "#3AC57A"
         },
         {
-            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/swap-background-4.jpg",
+            "image": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/4.png",
             "imageBlur": "0",
             "overlayColor": "#000000",
             "overlayOpacity": "25",
