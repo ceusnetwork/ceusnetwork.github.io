@@ -1,0 +1,16 @@
+{
+    "background": [
+        {
+            "video": "https://raw.githubusercontent.com/ceusnetwork/ceusnetwork.github.io/main/1.png",
+            "imageBlur": "0",
+            "overlayColor": "#000000",
+            "overlayOpacity": "15",
+            "swapInfoColor": "#223263",
+            "swapBoxColor": "#748193",
+            "swapBoxTextColor": "#EBF0FF",
+            "swapBtnColor": "#42566F",
+            "speTextColor": "#7095c3"
+        },
+      
+    ]
+} 
